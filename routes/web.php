@@ -20,7 +20,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 halo;
-jajal;
+ini fitur jajal;
 
 Route::get('/', function () {
     return view('dashboard.layout.main');
