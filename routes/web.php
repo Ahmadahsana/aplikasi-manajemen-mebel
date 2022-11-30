@@ -22,6 +22,8 @@ use Illuminate\Support\Facades\Route;
 halo;
 ini fitur jajal;
 
+// ini dari branch fitur jajal hahahaha
+
 Route::get('/', function () {
     return view('dashboard.layout.main');
 })->middleware('auth');
